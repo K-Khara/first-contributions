@@ -21,6 +21,7 @@
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
+- Kabir Khara
 Justin Villena
 - Charles Ulrich
 - Emma Bailly
